@@ -1,0 +1,22 @@
+.main{
+    border: 2px solid black;
+    width: 250px;
+    height: 180px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.calc-input{
+    width: 98%;
+    height: 40px;
+    background-color: white;
+    color: black;
+    border: black;
+}
+.btn{
+    background-color: grey;
+    width: 55px;
+    margin: 2px;
+    border-radius: 23px;
+}
